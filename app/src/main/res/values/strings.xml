@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather and Photos</string>
+    <string name="txtview_reg_title">Register</string>
+    <string name="txt_user_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_reg">Register</string>
+    <string name="txtView_login">Already Registered? Login here</string>
+    <string name="txtView_log_title">Login</string>
+    <string name="txt_log_email">Email</string>
+    <string name="txt_log_pass">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="txtView_register">Don\'t have an account? Register here</string>
+    <string name="txtView_profile_title">User profile</string>
+    <string name="btn_logout">Logout</string>
+    <string name="txtView_temp">10°</string>
+    <string name="txtView_skipLogin">Skip login</string>
+    <string name="txt_city_search">London</string>
+    <string name="btn_city_search">Search city</string>
+    <string name="txtView_cityName">City</string>
+    <string name="txtView_pressure">Pressure</string>
+    <string name="txtView_display_pressure">p display</string>
+    <string name="txtView_display_humidity">h display</string>
+    <string name="txtView_humidity">Humidity</string>
+    <string name="txtView_display_windspeed">d wind</string>
+    <string name="txtView_windspeed">Wind</string>
+    <string name="txtView_weather_description">Weather description</string>
+    <string name="txtView_todays_date">Date and time</string>
+    <string name="txtView_display_sunrise">d sunrise</string>
+    <string name="txtView_display_sunset">d sunset</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

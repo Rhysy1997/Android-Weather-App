@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#5F2CB9</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorRecycleViewBackground">#1D1D1D</color>
+    <color name="colorCardViewBackground">#272727</color>
+    <color name="colorProfile">#FFFFFF</color>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129602290615",
+    "firebase_url": "https://weatherandhygiene.firebaseio.com",
+    "project_id": "weatherandhygiene",
+    "storage_bucket": "weatherandhygiene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129602290615:android:cee443e9229dc66d961e32",
+        "android_client_info": {
+          "package_name": "com.example.weatherandhygiene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129602290615-75msgg7bqlfi9qls6jlg9c9vc14vgvma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_71KFOKNwG-0bBoxnO7cvTWNzU5fbrww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129602290615-75msgg7bqlfi9qls6jlg9c9vc14vgvma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
